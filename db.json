@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "numerovenda": " 1",
+    "data": "02/02/2000",
+    "cliente": "Joao",
+    "cpf": "000.000.000.-99",
+    "valor": "45,85 R$",
+    "pagamento": "dinheiro",
+    "marcadores": "cozinha",
+    "status": "em aberto"
+  },
+   {
+    "id": 2,
+    "numerovenda": " 2",
+    "data": "02/02/2002",
+    "cliente": "Maria",
+    "cpf": "000.000.000.-99",
+    "valor": "125,85 R$",
+    "pagamento": "Cartão de Credito",
+    "marcadores": "quarto",
+    "status": "em aberto"
+  }
+ 
+]
